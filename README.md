@@ -2,6 +2,8 @@
 
 Impement a web crawler that crawls the internet.
 
+For the purposes of this project, we define the Internet as the test data in this document, and a web crawler as software that requests pages from the Internet, parses the content to extract all the links in the page, and visits the links to crawl those pages, to an infinite depth.
+
 
 ## Test Data
 ### Internet 1
